@@ -1,5 +1,5 @@
 NOTE: This fork includes solutions to Javascript coding problems from The Odin Project.
-My changes are named with commit "Javascript Coding Solutions"
+My commit names with solutions are: "Solutions to Coding Problems"
 
 These are a series of javascript exercises intended to be used alongside the curriculum at 'The Odin Project'  They start very simply, but get more involved as you progress through them.
 
